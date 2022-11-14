@@ -14,6 +14,12 @@
     "categories": {
       "auth": {
         "amplifyreactawstutor1a06a3ee": {}
+      },
+      "api": {
+        "amplifyreactawstutor": {}
+      },
+      "storage": {
+        "imagestore": {}
       }
     }
   }
